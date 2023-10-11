@@ -1,0 +1,2 @@
+all:
+   node biggest_island.js
