@@ -30,3 +30,4 @@ console.log("5 " + yourarr);
 
 yourarr.unshift("rocky bhai"); //add element to biggining
 console.log("6 " + yourarr);
+console
